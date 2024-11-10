@@ -6,6 +6,7 @@ https://registry.terraform.io/modules/terraform-redhat/rosa-hcp/rhcs/latest/exam
 # 実行手順
 ## 環境変数の指定
 以下の値を環境変数に設定する。
+
 <AWSのCredentilas>
 * AWS_ACCESS_KEY_ID
 * AWS_SECRET_ACCESS_KEY
